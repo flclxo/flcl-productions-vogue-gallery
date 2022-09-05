@@ -2,24 +2,41 @@ nav {
     font-size: x-large;
     font-family: 'VCR OSD Mono', sans-serif;
     color: rgb(139, 139, 139);
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }
 
 
 img {
-    width: 30%;
+    width: 20%;
     margin: calc(10%/12);
     padding: .5%;
+   
 
 }
 
 footer {
     justify-content: center;
     display: flex;
+    font-size: 2em;
 }
 
 
+.fa {
+    padding: 1%;
+    width: 1em;
+    text-align: center;
+    text-decoration: none;
+    margin: 2.5%;
+    color: rgb(139, 139, 139);
+  }
 
+  a {
 
+    color: rgb(139, 139, 139);
+    text-decoration: none;
 
-
-
+  }
+ 
