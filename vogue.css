@@ -1,0 +1,25 @@
+nav {
+    font-size: x-large;
+    font-family: 'VCR OSD Mono', sans-serif;
+    color: rgb(139, 139, 139);
+}
+
+
+img {
+    width: 30%;
+    margin: calc(10%/12);
+    padding: .5%;
+
+}
+
+footer {
+    justify-content: center;
+    display: flex;
+}
+
+
+
+
+
+
+
